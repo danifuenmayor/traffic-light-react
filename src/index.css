@@ -1,3 +1,53 @@
 body {
-    background-color: #bcbcbc;
+    background-color: lightcyan;
+}
+.top {
+    width: 50px;
+    background-color: rgb(66, 66, 66);
+    height:100px;
+    margin: auto;
+
+}
+.container {
+    width:200px;
+    height:380px;
+    background-color: rgb(66, 66, 66);
+    border-radius: 10px;
+    padding: 10px;
+}
+.red {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: red;
+    margin: auto;
+    margin-top: 10px;
+    margin-top: 10px;
+}
+.yellow {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color:yellow;
+    margin: auto;
+    margin-top: 10px;
+    margin-top: 10px;
+}
+.green {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: green;
+    margin: auto;
+    margin-top: 10px;
+    margin-top: 10px;
+}
+.shiny1 {
+    box-shadow: 0px 0px 40px 20px rgb(245, 77, 77);
+}
+.shiny2 {
+    box-shadow: 0px 0px 40px 20px rgb(248, 248, 88);
+}
+.shiny3 {
+    box-shadow: 0px 0px 40px 20px lightgreen;
 }

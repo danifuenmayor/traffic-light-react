@@ -13,7 +13,8 @@ import './index.css';
 import 'jquery';
 import 'popper.js';
 import 'bootstrap';
+import TrafficLight from './traffic-light.js';
 
-const Home = props => <h1>Proyecto React Vacío</h1>;
+const Home = props => <TrafficLight/>;
 
 ReactDOM.render(<Home />, document.querySelector("#root"));
